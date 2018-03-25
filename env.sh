@@ -1,7 +1,7 @@
 #!/bin/bash
 
 exec docker run --rm \
-  --volume="$PWD:/site" \
+  --volume="$PWD:/srv/jekyll" \
   --publish "4000:4000" \
-  -it andredumas/github-pages \
-  $@
+  -it jekyll/jekyll:3.5 \
+  bash
