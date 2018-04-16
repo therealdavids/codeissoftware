@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Localization for Americans
+author: Matthew Miller
 ---
 #### A call for considering localization support, even when demand seems absent.
 
