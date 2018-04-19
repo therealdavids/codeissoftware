@@ -21,6 +21,7 @@ layout: default
           </section>
           <div class="post-meta">
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time>
+            {% if post.author %}&middot;&nbsp;<span>{{ post.author }}</span>{% endif %}
           </div>
         </div>
       </article>
