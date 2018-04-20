@@ -5,7 +5,7 @@ author: David Gaskins
 ---
 #### Teamwork made easy by setting requirements at the start. 
 
-Over the years, I remember being exposed to many valuable programming concepts that individually made sense, but when it came down to starting a project, I had a rough time applying those concepts. This article highlights one such concept: **Programming to a Common Interface**, and illustrates by applying this in practice to a small project how it **makes it easier to work in teams**. My hope is that after reading this article, more programmers will understand how they can apply this approach in their day to day code (schoolwork, hacks, on the job, etc) and make an effort to search out more best practices as well.
+Over the years, I remember being exposed to many valuable programming concepts that individually made sense, but when it came down to starting a project, I had a rough time applying those concepts. This article highlights one such concept: **Programming to a Common Interface**, and illustrates how using a common interface makes it easier to work in teams by applying this practice to a small hackathon-sized project. My hope is that after reading this article, more programmers will understand how they can apply this approach in their day to day code (schoolwork, hacks, on the job, ...) and make an effort to search out more best practices as well.
 
 First, it's important to understand what the program will achieve.
 
