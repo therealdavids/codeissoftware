@@ -9,8 +9,8 @@ Over the years, I remember being exposed to many valuable programming concepts t
 
 First, it's important to understand what the program will achieve.
 
-**Problem Statement:** A website that combines the functionality of the following websites: https://downforeveryoneorjustme.com/ and
-https://isitchristmas.com/ (no particular reason why I chose these two). Note: I will use [AngularDart](https://webdev.dartlang.org/angular/), but that this can be done in any number of frameworks or languages. 
+**Problem Statement:** I'd like a website that combines the functionality of the following websites: https://downforeveryoneorjustme.com/ and
+https://isitchristmas.com/ (no particular reason why I chose these two requirements). Note: I will use [AngularDart](https://webdev.dartlang.org/angular/), but that this can be done in any number of frameworks or languages. 
 
 Now, let's focus on adhering to a common interface. Both of these features can be distilled down to answering a simple question: "Is [X] true?". So we can define a very simple interface, that returns a boolean. The advantage of defining this contract before we start, is that now the team member(s) that are building the UI can rely on this contract and start building their portion **before the backend is working correctly**. This is done in the example below by using classes to emulate a working backend (often called fake data classes). 
 
@@ -22,7 +22,7 @@ I encourage the reader to check out this code by downloading locally and running
 Eventually though, it is important to actually [implement the logic](https://github.com/davidgaskins/izzet/commit/daaff696741bd8445466d193cbaa895e9b6e84fe) that the renderer is looking for.
 And of course, [write tests](https://github.com/davidgaskins/izzet/commit/cb8f596121badd672ca6a43fda8dfe0596e2d18d) for our christmas module logic.
 
-Note, I’ve actually only created a simple status renderer, not the whole dashboard. But, that’s alright because we can still [implement the dashboard component](https://github.com/davidgaskins/izzet/commit/5c0cde174bc265cae2aed78cf4feb80a757b56ed) without all the regular programminglogic being finished. Again, this comes as a result of relying on the common interface. 
+Note, the UI is actually not complete either. We are missing the main dashboard component. But, that’s alright because we can still [implement the dashboard component](https://github.com/davidgaskins/izzet/commit/5c0cde174bc265cae2aed78cf4feb80a757b56ed) without all the regular programming logic being finished. Again, we can work on either side of the project (UI or logic) because we are relying on the common interface. 
 
 At this point, the user interface is complete without the logic being implemented yet. So in order to have a finished project, we create and wire up a [real http request](https://github.com/davidgaskins/izzet/commit/b25ad503d7abf5563d33423e6f859ba703755f3b) class to test if the website is up. 
 
