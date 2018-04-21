@@ -29,7 +29,7 @@ They sip their latte and reply:
     "Just do X. It'll work just fine."
 </span>
 
-You do X. It works perfectly and with now fuss!
+You do X. It works perfectly and with no fuss!
 
 <span class="bubble you">
     "How did you figure that out so quickly!?"
