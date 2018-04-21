@@ -558,3 +558,24 @@ pre {
       display: block;
     }
   }
+
+
+.philosophy-dialogue {
+  .bubble {
+    display: inline-block;
+    max-width: 50%;
+    background: #ddd;
+    color: #333;
+
+    font-family:sans-serif;
+
+    border-radius:1em;
+    padding:1em;
+}
+
+.you {
+    background:#0084ff;
+    color:#fff;
+    margin-left:50%;
+}
+}
