@@ -25,7 +25,7 @@ Here are our contributors:
         <span class="name">{{ person.name }}</span>
         <span class="work">
             Works at
-            <a href="{{ person.community.url }}" target="_blank">
+            <a href="{{ person.company.url }}" target="_blank">
                 {{ person.company.name }}
             </a>
         </span>
