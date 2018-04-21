@@ -520,3 +520,41 @@ pre {
 .pagination .disabled {
     opacity: 0;
 }
+
+
+.profile-card-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 30px;
+
+  .profile-card {
+    min-height:100px;
+    margin:0 0 20px 0;
+
+    display: grid;
+    grid-template-columns: 100px auto;
+    grid-gap: 20px;
+
+    .profile-card-image {
+      amp-img {
+        margin:0;
+      }
+    }
+
+    .profile-card-description {
+      .name {
+        font-weight: bold;
+      }
+
+      .name, .work, .community, .school {
+        display: block;
+      }
+    }
+  }
+}
+
+  @media only screen and (max-width: 600px) {
+    .profile-card-list {
+      display: block;
+    }
+  }
