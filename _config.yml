@@ -17,11 +17,9 @@ paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Code is Software'
 bio: >
-  Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
-  Ne solet nostrum complectitur pri, vis ut inani populo.
-author_image: "/assets/images/author.jpg"
-twitter_username: jekyllrb
-github_username:  jekyll
+  We are a collective that advocates for holistic software and continuous integration.
+author_image: "/assets/images/logo.jpg"
+github_username:  therealdavids
 
 # Google Analytics
 analytics_id: ""
