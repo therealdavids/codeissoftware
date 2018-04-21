@@ -579,3 +579,17 @@ pre {
     margin-left:50%;
 }
 }
+  @media only screen and (max-width: 600px) {
+
+.philosophy-dialogue {
+  .bubble {
+    max-width: 80%;
+}
+
+.you {
+    background:#0084ff;
+    color:#fff;
+    margin-left:20%;
+}
+}
+  }
