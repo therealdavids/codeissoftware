@@ -7,7 +7,7 @@ author: David Nuon
 
 <div class="philosophy-dialogue">
 
-It's 2:11 in the morning and you're trying to jam out this feature you've been working on hasn't been working out. 
+It's 2:11 in the morning and you're trying to jam out this feature and it hasn't been working out. 
 
 <span class="bubble you">
     "What if I try this? What if I use this heuristic instead?"
