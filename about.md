@@ -22,7 +22,17 @@ Here are our contributors:
         </amp-img>
     </div>
     <div class="profile-card-description">
-        <span class="name">{{ person.name }}</span>
+        <span class="name">
+        
+        <strong>{{ person.name }}</strong>
+        
+        {% if person.has_bio %}
+            &mdash;
+            <a href="/profile/{{ person.username }}">
+                Bio
+            </a>
+        {% endif %}
+        </span>
         <span class="work">
             Works at
             <a href="{{ person.company.url }}" target="_blank">
@@ -45,6 +55,7 @@ Here are our contributors:
                 </a>
             </span>
         {% endif %}
+
     </div>
 </div>
 {% endfor %}

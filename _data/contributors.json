@@ -14,7 +14,8 @@
       "school": {
         "url": "https://csulb.edu", 
         "name": "CSULB"
-      }
+      },
+      "has_bio": true
     }, 
     {
       "username": "iamkale", 
@@ -70,7 +71,8 @@
       "school": {
         "url": "https://SJSU.edu", 
         "name": "SJSU"
-      }
+      },
+      "has_bio": true
     }, 
     {
       "username": "boka", 
@@ -82,7 +84,8 @@
       "school": {
         "url": "https://www.lahc.edu/", 
         "name": "Los Angeles Harbor College"
-      }
+      },
+      "has_bio": true
     }
   ]
 }
