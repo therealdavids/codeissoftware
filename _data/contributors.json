@@ -1,88 +1,89 @@
 {
   "people": [
     {
-      "username": "davidnuon", 
+      "username": "davidnuon",
       "company": {
-        "url": "https://www.critiqueit.com", 
+        "url": "https://www.critiqueit.com",
         "name": "CritiqueIt"
-      }, 
-      "name": "David Nuon", 
+      },
+      "name": "David Nuon",
       "community": {
-        "url": "http://codeandcoffeelb.org", 
+        "url": "http://codeandcoffeelb.org",
         "name": "Code and Coffee"
-      }, 
+      },
       "school": {
-        "url": "https://csulb.edu", 
+        "url": "https://csulb.edu",
         "name": "CSULB"
       },
       "has_bio": true
-    }, 
+    },
     {
-      "username": "iamkale", 
+      "username": "iamkale",
       "company": {
-        "url": "https://www.dhapdigital.com/", 
-        "name": "DHAP Digital"
-      }, 
-      "name": "Matthew Miller", 
+        "url": "https://www.dhapdigital.com/",
+        "name": "DHAP Digital, Inc."
+      },
+      "name": "Matthew Miller",
       "community": {
-        "url": "\\#", 
+        "url": "\\#",
         "name": "reality+"
-      }, 
+      },
       "school": {
-        "url": "https://ucr.edu", 
+        "url": "https://ucr.edu",
         "name": "UCR"
-      }
-    }, 
+      },
+      "has_bio": true
+    },
     {
-      "username": "davidgasksins", 
+      "username": "davidgasksins",
       "company": {
-        "url": "https://www.google.com", 
+        "url": "https://www.google.com",
         "name": "Google"
-      }, 
-      "name": "David Gaskins", 
+      },
+      "name": "David Gaskins",
       "school": {
-        "url": "https://csulb.edu", 
+        "url": "https://csulb.edu",
         "name": "CSULB"
       }
-    }, 
+    },
     {
-      "username": "davidkmartel", 
+      "username": "davidkmartel",
       "company": {
-        "url": "https://www.google.com", 
+        "url": "https://www.google.com",
         "name": "Google"
-      }, 
-      "name": "David Martel", 
+      },
+      "name": "David Martel",
       "school": {
-        "url": "https://csulb.edu", 
+        "url": "https://csulb.edu",
         "name": "CSULB"
       }
-    }, 
+    },
     {
-      "username": "postphotos", 
+      "username": "postphotos",
       "company": {
-        "url": "https://xwp.co", 
+        "url": "https://xwp.co",
         "name": "XWP"
-      }, 
-      "name": "Leo Postovoit", 
+      },
+      "name": "Leo Postovoit",
       "community": {
-        "url": "https://www.meetup.com/LosAngelesWP/", 
+        "url": "https://www.meetup.com/LosAngelesWP/",
         "name": "Los Angeles WordPress, Long Beach Chapter"
-      }, 
+      },
       "school": {
-        "url": "https://SJSU.edu", 
+        "url": "https://SJSU.edu",
         "name": "SJSU"
       },
       "has_bio": true
-    }, 
+    },
     {
-      "username": "boka", 
+      "username": "boka",
       "company": {
-        "url": "http://codeboka.com", 
+        "url": "http://codeboka.com",
         "name": "Code Boka"
-      }, 
-      "name": "Nick Hrboka", 
+      },
+      "name": "Nick Hrboka",
       "school": {
-        "url": "https://www.lahc.edu/", 
+        "url": "https://www.lahc.edu/",
         "name": "Los Angeles Harbor College"
       },
       "has_bio": true
