@@ -54,7 +54,7 @@ They retort.
 </span>
 
 <span class="bubble you">
-    "But I read about it on Huckster News! Everyone is talking abo&mdash;"
+    "But I read about it on [Huckster News!](https://www.reddit.com/r/programming/) Everyone is talking abo&mdash;"
 </span>
 
 <span class="bubble them">
