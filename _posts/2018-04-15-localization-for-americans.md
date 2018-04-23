@@ -5,6 +5,8 @@ author: Matthew Miller
 ---
 #### A call for considering localization support, even when demand seems absent.
 
+Presentation: [Localization for Americans](https://docs.google.com/presentation/d/1SXW85V3XpfbQGXAnV7DuvXukd1ua9cRXz1jEMP2ZnWM/edit?usp=sharing)
+
 As Americans, a majority of software projects we work on can be completed solely using English for everything from page content to error messages. In these situations, support for a single language is sufficient - after all, if the intended user base is entirely fluent in a single language, why should we dedicate development time and resources to finding an appropriate support library and incorporating it throughout the codebase?
 
 As a developer fluent in a second spoken language and with experience working on projects requiring multilingual support, I argue that localization should be given consideration at the _outset_ of a project rather than as a feature branch months or years after release.
