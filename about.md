@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<amp-img width="600" height="143" layout="responsive" src="/assets/images/codeissoftware.png"></amp-img>
+<amp-img width="800" height="600" layout="responsive" src="/assets/images/team.jpg"></amp-img>
 
 codeis.software is a collective that advocates for holistic software and continuous integration.
 
