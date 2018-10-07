@@ -1,3 +1,9 @@
+---
+layout: post
+title: A call for contributors. Very seriously!
+author: Leo Postovoit
+---
+
 # A call for contributors. Very seriously!
 
 By now, you may have heard about David and I's very serious attempt to create <b>the world's most compatible thing™</b>. Our first public response to a request for speaking was posted a few weeks back at [
