@@ -53,6 +53,7 @@ We want you(!!!) to join us. If you can do anything involving:
 - pictures
 - baking cupcakes
 - having fun
+
 You're probably welcome! :) Please be excellent to each other.
 
 We share the Codes of Conduct with [Code&&Coffee](http://codeandcoffeelb.org/conduct/) and the [WordPress meetups](https://make.wordpress.org/community/handbook/meetup-organizer/resources/code-of-conduct/
