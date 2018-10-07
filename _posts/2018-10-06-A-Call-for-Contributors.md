@@ -13,7 +13,7 @@ This post tries to capture our energy, society's need and the thing(s) we're bui
 
 ## Thesis statement 
 
-Media studies expert Marshall McLuan's quote "The medium is the message" is an earworm: What if that medium is a webpage from 1980? A printed book? A VR application?
+Media studies expert Marshall McLuan's quote "the medium is the message" is but a rumination: What if that medium is a webpage from 1980? A printed book? A VR application?
 
 We believe a new *key narrative* is needed for content creators, interaction developers and information consumers to celebrate the work that societies have produced, to preserve what whimsy the past provided, and to accept that the future will one day be old, perhaps just as old as what we'd consider as ancient. 
 
