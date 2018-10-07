@@ -55,8 +55,7 @@ We want you(!!!) to join us. If you can do anything involving:
 - having fun
 You're probably welcome! :) Please be excellent to each other.
 
-We share the Codes of Conduct with [
-Code&&Coffee](http://codeandcoffeelb.org/conduct/) and the [WordPress meetups](https://make.wordpress.org/community/handbook/meetup-organizer/resources/code-of-conduct/
+We share the Codes of Conduct with [Code&&Coffee](http://codeandcoffeelb.org/conduct/) and the [WordPress meetups](https://make.wordpress.org/community/handbook/meetup-organizer/resources/code-of-conduct/
 ) - any questions or concerns, please email coc@averyseriouswebsite.net.
 
 ### What:
@@ -71,15 +70,17 @@ We're building things, such as:
 - printed media (including a guest book)
 - Future media, such as streamed audio, video and so on
 
-A requisite of the project is we hope to track, in the most limited sense, is volume of consumption of each of these - so we can share this data onward as this project may evolve. This might be web analytics, sales of floppy disks or names in a physical guestbook. (Remember web guestbooks?)
+*A requisite of the project is we hope to track, in the most limited sense, is volume of consumption of each of these* - so we can share this data onward as this project may evolve. This might be web analytics, sales of floppy disks or names in a physical guestbook. (Remember web guestbooks?)
 
-Also, we're
+Also, through this project we're
 - informing people along the way.
 - having as much fun as possible.
 - learning about the things that no one knows about, e.g. _what truly was CSS1 like?!_ or _How do I make HTML3 pages using Gutenberg?_ or _Can we render faxes in VR?_ 
 - bonding through a collective embrace through retro futurism\*, digital archaeology\*\*, and having fun\*\*\*.
 
+
 _Footnotes_
+
 \* We think you can learn about the future by learning about the past, and we think you can learn about the past by learning about the future.
 
 \*\* This term is used in different ways, but we intend to use it in a way that celebrates the past and decay of media, formats and tooling. Archaeologists work through the struggle of repiecing the past with what's left, and we intend to do that through the digital record.  
