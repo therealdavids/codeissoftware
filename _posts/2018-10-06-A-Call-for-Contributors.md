@@ -73,8 +73,11 @@ Also, we're
 - learning about the things that no one knows about, e.g. _what truly was CSS1 like?!_ or _How do I make HTML3 pages using Gutenberg?_ or _Can we render faxes in VR?_ 
 - bonding through a collective embrace through retro futurism\*, digital archaeology\*\*, and having fun\*\*\*.
 
+_Footnotes_
 \* We think you can learn about the future by learning about the past, and we think you can learn about the past by learning about the future.
+
 \*\* This term is used in different ways, but we intend to use it in a way that celebrates the past and decay of media, formats and tooling. Archaeologists work through the struggle of repiecing the past with what's left, and we intend to do that through the digital record.  
+
 \*\*\* We really think that everyone should be doing this more than anything else, be so long as they're also respectful to the people and the world around them.
 
 _(Note: We know our a11y and l18n efforts here are limited, but we intend, especially our modern web version, to support efforts here.)_
