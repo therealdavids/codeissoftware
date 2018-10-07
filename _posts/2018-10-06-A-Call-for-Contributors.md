@@ -71,7 +71,7 @@ We're building things, such as:
 - printed media (including a guest book)
 - Future media, such as streamed audio, video and so on
 
-A requisite of the project is we hope to track, in the most limited sense, volume of consumption of each of these - so we can share this data onward as this project may evolve.
+A requisite of the project is we hope to track, in the most limited sense, is volume of consumption of each of these - so we can share this data onward as this project may evolve. This might be web analytics, sales of floppy disks or names in a physical guestbook. (Remember web guestbooks?)
 
 Also, we're
 - informing people along the way.
