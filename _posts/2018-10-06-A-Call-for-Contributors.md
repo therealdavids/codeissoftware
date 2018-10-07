@@ -34,7 +34,7 @@ This project is boundless in theory - we want it grow and fit the desires of the
 ## Some core requisites for the work and for participants
 
 We believe that this project should be:
-- Compatabile with ALL web browsers.
+- Compatible with ALL web browsers.
 - Open Source (GPL v2 or higher) as much as possible.
 - Introspective of each media to which it's composing to, such as SMS chat bots or printed paper.
 - As fun as possible (Please have fun!) as it's [Serious, not Solemn](https://www.ted.com/talks/paula_scher_gets_serious?language=en
@@ -55,7 +55,7 @@ Code&&Coffee](http://codeandcoffeelb.org/conduct/) and the [WordPress meetups](h
 
 ### What:
 We're building things, such as:
-- webpages compatable with every browser, and even the GOPHER protocol
+- webpages compatible with every browser, and even the GOPHER protocol
 - webpages that showcase the modern web
 - a fax protocol (leveraging a web service)
 - an SMS chatbot
