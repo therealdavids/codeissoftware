@@ -86,7 +86,7 @@ Most of this contribution is happening online in the [TheRealHTTPSters](https://
 If that doesn't jive with you and you want to contribute, reach out.
 
 ## When:
-MVP needs to be ready by October 31 (don't be scared!!) so we can be ready for [WordCamp Riverside](https://2017.riverside.wordcamp.org/.
+MVP needs to be ready by October 31 (don't be scared!!) so we can be ready for [WordCamp Riverside](https://2017.riverside.wordcamp.org/).
 
 Due to the time-sensitive nature, issues (when assigned) should be worked to be closed within 48 hours unless otherwise permitted. 
 
