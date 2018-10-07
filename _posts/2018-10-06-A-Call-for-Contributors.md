@@ -79,21 +79,22 @@ Also, we're
 
 _(Note: We know our a11y and l18n efforts here are limited, but we intend, especially our modern web version, to support efforts here.)_
 
-## Where:
+### Where:
 
 Most of this contribution is happening online in the [TheRealHTTPSters](https://github.com/therealhttpsters/) Github board. 
 
 If that doesn't jive with you and you want to contribute, reach out.
 
-## When:
+### When:
 MVP needs to be ready by October 31 (don't be scared!!) so we can be ready for [WordCamp Riverside](https://2017.riverside.wordcamp.org/).
 
 Due to the time-sensitive nature, issues (when assigned) should be worked to be closed within 48 hours unless otherwise permitted. 
 
-## Why:
+### Why:
 It's important to recall the past, understand the present and save the future. And to win for the world, we need to have hobbies and care about each other.
 
-## How:
+### How:
 We're going to be goofy and use the technologies underpinning the websites we use and build every single day, plus our various work experiences and discoveries, to make _the coolest, most compatible thing_ you've ever seen, heard or felt.
 
+## I want to play along!
 To join, complete this form below or email us. 
