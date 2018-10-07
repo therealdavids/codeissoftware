@@ -29,7 +29,7 @@ We need to band together to build *collective empathy*. In short, we believe all
 - Could we successfully throw together a floppy-writing party?
 - Do people really know the history of the web? Could they experience it in an immersive, interactive scavenger hunt?
 
-This project is boundless in theory - we want it grow and fit the desires of the contributors who show up.
+This project is boundless in theory - we want it to grow and fit the desires of the contributors who just might show up.
 
 ## Some core requisites for the work and for participants
 
@@ -100,4 +100,6 @@ It's important to recall the past, understand the present and save the future. A
 We're going to be goofy and use the technologies underpinning the websites we use and build every single day, plus our various work experiences and discoveries, to make _the coolest, most compatible thing_ you've ever seen, heard or felt.
 
 ## I want to play along!
-To join, complete this form below or email us. 
+To join, complete this form below or email us at info@averyseriouswebsite.net. 
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeB7bh2nt5td0VubE3Xp4o3WJqw5kItvK-kCZT-5SY_L1IopQ/viewform?embedded=true" width="640" height="984" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
