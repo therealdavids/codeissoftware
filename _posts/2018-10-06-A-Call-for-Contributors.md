@@ -53,6 +53,7 @@ We want you(!!!) to join us. If you can do anything involving:
 - pictures
 - baking cupcakes
 - having fun
+
 You're probably welcome! :) Please be excellent to each other.
 
 We share the Codes of Conduct with [Code&&Coffee](http://codeandcoffeelb.org/conduct/) and the [WordPress meetups](https://make.wordpress.org/community/handbook/meetup-organizer/resources/code-of-conduct/
@@ -109,4 +110,6 @@ We're going to be goofy and use the technologies underpinning the websites we us
 ## I want to play along!
 To join, complete this form below or email us at info@averyseriouswebsite.net. 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeB7bh2nt5td0VubE3Xp4o3WJqw5kItvK-kCZT-5SY_L1IopQ/viewform?embedded=true" width="640" height="984" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<amp-iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeB7bh2nt5td0VubE3Xp4o3WJqw5kItvK-kCZT-5SY_L1IopQ/viewform?embedded=true" width="640" height="984" frameborder="0">Loading...</amp-iframe>
+
+<noscript>Visit the form in a JS-enabled browser [here]( https://docs.google.com/forms/d/e/1FAIpQLSeB7bh2nt5td0VubE3Xp4o3WJqw5kItvK-kCZT-5SY_L1IopQ/viewform?embedded=true).</noscript>
