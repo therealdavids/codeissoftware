@@ -7,7 +7,7 @@ author: Leo Postovoit
 # A call for contributors. Very seriously!
 
 By now, you may have heard about David and I's very serious attempt to create <b>the world's most compatible thing™</b>. Our first public response to a request for speaking was posted a few weeks back at [
-aVerySerious.website](http://aVerySerious.website). (Which, BTW, is performant, responsible and accessible out of the the box!)
+aVerySerious.website](http://aVerySerious.website). (Which, BTW, is performant, responsive and accessible out of the the box!)
 
 This post tries to capture our energy, society's need and the thing(s) we're building, and we hope you're on board.
 
